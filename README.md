@@ -3,7 +3,7 @@
 Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones en el TecNM Campus Pachuca (7.º semestre).
 Construyo prototipos con **ESP32 y Arduino** que integran sensores, actuadores, comunicación inalámbrica y servicios web, y documento cada versión.
 
-**Portafolio técnico:** https://nshtpdrz.github.io
+**Portafolio técnico:** https://nshtpdrz.github.io · [LinkedIn](https://www.linkedin.com/in/daniel-ignacio-pedraza-mart%C3%ADnez-7b225a325/)
 
 #### Proyectos de sistemas embebidos
 
