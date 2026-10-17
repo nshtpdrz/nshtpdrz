@@ -14,6 +14,7 @@ Construyo prototipos con **ESP32 y Arduino** que integran sensores, actuadores, 
 | [Bocina Inteligente](https://github.com/nshtpdrz/bocina-inteligente-esp32) | Bluetooth A2DP → I²S, control AVRCP, interfaz física | Funcional |
 | [Robot 4WD](https://github.com/nshtpdrz/robot-4wd-sumo-seguidor) | Máquinas de estados: control Bluetooth, sumo autónomo y seguidor de línea | Funcional |
 | [Batalla Naval IoT](https://github.com/nshtpdrz/batalla-naval-esp32) | Access Point propio y API REST con estado en el ESP32 | Funcional |
+| Red Centinela | Nodo IoT de campo: ESP32-S3, cámara, BME280, LoRa 915 MHz, RTC, microSD y energía solar | En desarrollo |
 | [Más proyectos](https://github.com/nshtpdrz/esp32-arduino-proyectos) | RFID, monitor de nivel de agua, Tamagotchi, fundamentos Wi-Fi | Funcional |
 
 #### Con lo que trabajo
